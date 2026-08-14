@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Harsh Vardhan 👋
 
-<!--
-**Harshvardhan-06/Harshvardhan-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Sc. student building practical skills in Data Analytics, Python, SQL, Power BI, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to discover insights, build visualizations, and develop data-driven solutions for real-world problems.
+
+🛠️ Skills
+
+- Programming: Python
+- Data Analysis: Pandas, NumPy, Exploratory Data Analysis
+- Databases: SQL
+- Visualization: Power BI, Tableau, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, Predictive Modeling
+- Tools: Jupyter Notebook, Git, GitHub, Excel
+
+📊 Featured Projects
+
+- Job Market Analysis and Job Recommendation System
+- Retail Store Sales Forecasting using Machine Learning
+- Telecommunication User Analytics and Customer Satisfaction Analysis
+- Mobile Phone Price Prediction using Machine Learning
+- Real Estate Price Analysis using Exploratory Data Analysis
+- Data Wrangling and Data Preprocessing Pipeline
+- GUI Calculator Application using Python Tkinter
+
+🎯 Currently Learning
+
+- Advanced SQL
+- Power BI & Data Visualization
+- Machine Learning
+- Data Analytics & Business Intelligence
+
+🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/harsh-vardhan-b022733b7/
+- GitHub: https://github.com/Harshvardhan-06
+
+---
+
+⭐ Thanks for visiting my profile!
